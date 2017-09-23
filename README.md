@@ -1,3 +1,5 @@
+This project has been built during api world hackathon
+
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
